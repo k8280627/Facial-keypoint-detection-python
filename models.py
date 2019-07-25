@@ -1,5 +1,3 @@
-## TODO: define the convolutional neural network architecture
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
